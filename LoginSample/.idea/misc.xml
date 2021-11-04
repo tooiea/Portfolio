@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/For_study/AndroidStudioProjects/LoginSample/app/src/main/res/layout/activity_main.xml" value="0.15833333333333333" />
+        <entry key="..\:/For_study/AndroidStudioProjects/LoginSample/app/src/main/res/layout/create_user.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/LoginSample/app/src/main/res/layout/login_page.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/LoginSample/app/src/main/res/layout/top_page.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/LoginSample/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/drawable-v24/num_button.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/layout/calculator_layout.xml" value="0.18425925925925926" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/layout/create_user.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/layout/login_page.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/layout/menu_page.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/MemoV2/app/src/main/res/layout/top_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/For_study/MemoV2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/For_study/MemoV2/app/src/main/res/layout/create_user.xml" value="0.264" />
+        <entry key="..\:/For_study/MemoV2/app/src/main/res/layout/login_page.xml" value="0.264" />
+        <entry key="..\:/For_study/MemoV2/app/src/main/res/layout/top_page.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

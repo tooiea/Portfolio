@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/calculaterV3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV4/app/src/main/res/drawable/circle_button.xml" value="0.14270833333333333" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/circle_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/circle_disabled.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/circle_pressed.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/circle_state.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/numButton.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/num_button_default.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/num_button_disabled.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/num_button_pressed.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/num_button_state.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/right_button.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/right_button_default.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/right_button_pressed.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/right_button_state.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/top_button_default.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/top_button_pressed.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/drawable/top_button_state.xml" value="0.2703125" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/For_study/AndroidStudioProjects/calculaterV5/app/src/main/res/layout/layout.xml" value="0.12943262411347517" />
+        <entry key="..\:/Users/tooie/AndroidStudioProjects/calculaterV2/app/src/main/res/drawable/circle_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/tooie/AndroidStudioProjects/calculaterV2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/calculaterV2/app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/user/Desktop/tooiea/AndroidStudioProjects/calculaterV2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/Desktop/tooiea/AndroidStudioProjects/calculaterV3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
